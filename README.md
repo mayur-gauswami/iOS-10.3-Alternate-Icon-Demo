@@ -1,6 +1,6 @@
 # iOS Dynamic AppIcon
 
-![](/demo.gif "")
+![](/demo.gif =250x)
 
 # Setup
 
